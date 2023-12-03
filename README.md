@@ -22,8 +22,8 @@ FlagGuesser is a flag guessing game where players are presented with a flag and 
 Here are some screenshots showcasing the gameplay:
 
 ![Start](Screenshots/First.png)
-![Correct](Screenshots/Correct.png)
 ![Wrong](Screenshots/Wrong.png)
+![Correct](Screenshots/Correct.png)
 <!-- Add more screenshots if needed -->
 
 ## Requirements

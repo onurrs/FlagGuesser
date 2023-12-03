@@ -26,6 +26,10 @@ Here are some screenshots showcasing the gameplay:
 ![Correct](Screenshots/Correct.png)
 <!-- Add more screenshots if needed -->
 
+## RestCountries API
+
+This project uses the RestCountries API to fetch country information such as flag images and country names.
+
 ## Requirements
 
 - Java 8 or higher version
